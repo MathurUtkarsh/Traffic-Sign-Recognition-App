@@ -6,8 +6,7 @@ There are several different types of traffic signs like speed limits, no entry, 
 # Traffic Signs Recognition – About the Project
 In this project, I had build a deep neural network model that can classify traffic signs present in the image into different categories. With this model, we are able to read and understand traffic signs which are a very important task for all autonomous vehicles.
 
-# Dataset - 
-https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
+# Dataset - # https://www.kaggle.com/datasets/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
 Note - You can apply this project to any country's traffic signs according to your needs and dataset you have. I have done this project on German traffic Sign Recognition because I find it's dataset easily.
 
