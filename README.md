@@ -9,7 +9,7 @@ In this project, I had build a deep neural network model that can classify traff
 
 Note - You can apply this project to any country's traffic signs according to your needs and dataset you have. I have done this project on German traffic Sign Recognition because I find it's dataset easily.
 
-Steps to Build the Python Project
+## Steps to Build the Python Project
 
 1.) To get started with the project, download the dataset and extract it into a folder.
 
