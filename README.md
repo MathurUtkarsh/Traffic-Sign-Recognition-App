@@ -19,3 +19,6 @@ Note - You can apply this project to any country's traffic signs according to yo
 
 4.) If you want to simplify your task then you can use my pretrained weights file.
 
+## Traffic Signs Classifier GUI
+I have build a graphical user interface for our traffic signs classifier with Tkinter. Tkinter is a GUI toolkit in the standard python library. You can run the code by typing python gui.py in the command line.
+
